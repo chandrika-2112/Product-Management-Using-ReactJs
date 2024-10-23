@@ -115,5 +115,5 @@ CREATE TABLE product (
 
 ## Additional Information
 
-- **Frontend Repository**: Refer to the [Product-Management-Using-ReactJs](https://github.com/chandrika-2112/Product-Management-Using-ReactJs) repository for the front-end implementation of this project.
-```
+- **Repository**: Refer to the [Product-Management](https://github.com/chandrika-2112/Product-Management) repository for the Back End(SpringBoot, Mysql, Java, Postman APi) implementation of this project.
+
